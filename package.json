@@ -1,0 +1,22 @@
+{
+    "publisher": "ForrestBaer",
+    "engines": {
+        "vscode": "^1.22.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Emotionally Mute Theme",
+                "uiTheme": "vs",
+                "path": "./themes/emotionally-mute-theme.json"
+            }
+        ]
+    },
+    "name": "EmotionallyMuteTheme",
+    "version": "1.1.0",
+    "description": "The Emotionally Mute theme for VSCode",
+    "author": "Forrest Baer"
+}
