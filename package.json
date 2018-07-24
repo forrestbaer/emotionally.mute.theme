@@ -15,6 +15,10 @@
             }
         ]
     },
+    "galleryBanner": {
+        "color": "#01a252",
+        "theme": "light"
+    },
     "repository": {
         "type": "git",
         "url": "https://github.com/forrestbaer/emotionally.mute.theme"
