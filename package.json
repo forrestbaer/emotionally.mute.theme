@@ -15,6 +15,10 @@
             }
         ]
     },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/forrestbaer/emotionally.mute.theme"
+    },
     "name": "EmotionallyMuteTheme",
     "version": "1.2.0",
     "description": "The Emotionally Mute theme for VSCode",
