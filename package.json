@@ -23,7 +23,7 @@
         "type": "git",
         "url": "https://github.com/forrestbaer/emotionally.mute.theme"
     },
-    "name": "emotionally_mute_theme",
+    "name": "emotionallymutetheme",
     "version": "1.8.0",
     "description": "The Emotionally Mute theme for VSCode",
     "author": "Forrest Baer"
