@@ -91,7 +91,8 @@
         {
             "name": "Entity Tags, Attributes",
             "scope": [
-                "entity.other.attribute-name"
+                "entity.other.attribute-name",
+                "keyword.other"
             ],
             "settings": {
                 "foreground": "#37723f"
